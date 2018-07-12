@@ -19,7 +19,7 @@ namespace SimpleApp
 
         private void button1_Click(object sender, EventArgs e)
         {
-            this.label1.Text = "Hello people";
+            this.label1.Text = "Hello Brett";
         }
     }
 }
